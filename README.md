@@ -12,8 +12,8 @@
 Cadastro de Cliente, Pesquisar, Incluir, Alterar e Excluir.
 ![mCrud 1](https://user-images.githubusercontent.com/84293353/183322745-3d9c2837-632e-44a0-b474-8db18f54d6f8.PNG)
 
-*Pesquisa o CEP com API Via CEP se tiver online, caso não esteja online ele pesquisa em outros servidores*
-*Validação do CPF*
+*Pesquisa o CEP com API Via CEP se tiver online, caso não esteja online ele pesquisa em outros servidores,*
+*, Tambem feito a validação do CPF*
 
 
 *Pesquisando o Cliente* >>>
