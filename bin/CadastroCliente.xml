@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CadastroCliente>
+<Cadastro 
+CODIGO="1" 
+NOME="MAICON JOSE DE OLIVEIRA" 
+CPF="053.551.359-35" 
+IDENTIDADE="" 
+TELEFONE="48998529233" 
+EMAIL="" 
+CEP="88701640" 
+ENDERECO="RUA GERMANO SIEBERT" 
+BAIRRO="CENTRO" 
+CIDADE="TUBARAO" 
+COMPLEMENTO="" 
+NUMERO="0" 
+ESTADO="SC" 
+PAIS="" 
+/>
+</CadastroCliente>
