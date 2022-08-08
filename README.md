@@ -9,7 +9,6 @@
   
 *Listar Clientes* >>>
 
-
 Cadastro de Cliente, Pesquisar, Incluir, Alterar e Excluir.
 [ClientCrud 1](https://user-images.githubusercontent.com/84293353/183322194-5f1d98f3-1ae7-4983-be56-3026c6481007.PNG)
 *Pesquisa o CEP com API Via CEP se tiver online, caso não esteja online ele pesquisa em outros servidores*
@@ -17,8 +16,6 @@ Cadastro de Cliente, Pesquisar, Incluir, Alterar e Excluir.
 
 
 *Pesquisando o Cliente* >>>
-
-
 [mCrud 2](https://user-images.githubusercontent.com/84293353/183322315-c60d6084-f4b9-4e9b-9e21-cd16f54e9db4.PNG)
 Pesquisar o cliente para poder alterar. 
 
